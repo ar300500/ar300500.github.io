@@ -1,0 +1,8 @@
+Origin: ar300500’s Repo
+Label: iOS 11/12 tweaks modifired for iOS 10
+Suite: stable
+Version: 1.0
+Codename: ar300500
+Architectures: iphoneos-arm
+Components: main
+Description:  ar300500's Repo
